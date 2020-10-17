@@ -51,6 +51,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+# Chronjob
+getting_and_prepping_data.py
+
 # Translations
 *.mo
 *.pot
@@ -76,6 +79,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+finding_trends.ipynb
+get_scores.ipynb
 
 # IPython
 profile_default/
