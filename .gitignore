@@ -33,6 +33,8 @@ MANIFEST
 *.manifest
 *.spec
 
+./readmetemplate.md
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -79,8 +81,9 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-finding_trends.ipynb
-get_scores.ipynb
+./finding_trends.ipynb
+./get_scores.ipynb
+./play_keno.ipynb
 
 # IPython
 profile_default/
