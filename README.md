@@ -1,6 +1,6 @@
 # Keno  
 
-This is a repository dedicated to tracking the bets and numbers that win at rates higher than random in several keno markets.
+This is a repository dedicated to tracking the bets and numbers that win at rates higher than random in several (Nebraska) keno markets.
 
 ## The Data  
 
