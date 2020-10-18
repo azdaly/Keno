@@ -6,9 +6,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
 ### Lincoln  
 
- - Lincoln's High vs. Low performance - lincoln_HVL_WINNER is currently beating LINCOLN_HVL_WINNER (significant):  
+ - Lincoln's High vs. Low performance - Top is currently winning (Significant):  
  ![Lincoln's High vs. Low performance](https://github.com/azdaly/Keno/blob/main/data/output/lincoln_top_vs_bottom.png)
- - Lincoln's Left vs. Right performance - lincoln_LVR_WINNER is currently beating LINCOLN_LVR_WINNER (significant):  
+ - Lincoln's Left vs. Right performance - Right is currently winning (Significant):  
  ![Lincoln's Left vs. Right performance](https://github.com/azdaly/Keno/blob/main/data/output/lincoln_left_vs_right.png)
  - [Lincoln's top numbers](https://github.com/azdaly/Keno/blob/main/data/output/Lincoln_top_numbers.txt)
  - Lincoln's top numbers plot:  
@@ -22,9 +22,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
 ### Omaha  
 
- - Omaha's High vs. Low performance - omaha_HVL_WINNER is currently beating OMAHA_HVL_WINNER (significant):  
+ - Omaha's High vs. Low performance - Bottom is currently winning (Significant):  
  ![Omaha's High vs. Low performance](https://github.com/azdaly/Keno/blob/main/data/output/omaha_top_vs_bottom.png)
- - Omaha's Left vs. Right performance - omaha_LVR_WINNER is currently beating OMAHA_LVR_WINNER (significant):  
+ - Omaha's Left vs. Right performance - Right is currently winning (Significant):  
  ![Omaha's Left vs. Right performance](https://github.com/azdaly/Keno/blob/main/data/output/omaha_left_vs_right.png)
  - [Omaha's top numbers](https://github.com/azdaly/Keno/blob/main/data/output/Omaha_top_numbers.txt)
  - Omaha's top numbers plot:  
@@ -38,9 +38,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
 ### Norfolk  
 
- - Norfolk's High vs. Low performance - norfolk_HVL_WINNER is currently beating NORFOLK_HVL_WINNER (significant):  
+ - Norfolk's High vs. Low performance - Top is currently winning (Significant):  
  ![Norfolk's High vs. Low performance](https://github.com/azdaly/Keno/blob/main/data/output/norfolk_top_vs_bottom.png)
- - Norfolk's Left vs. Right performance - norfolk_LVR_WINNER is currently beating NORFOLK_LVR_WINNER (significant):  
+ - Norfolk's Left vs. Right performance - Right is currently winning (Significant):  
  ![Norfolk's Left vs. Right performance](https://github.com/azdaly/Keno/blob/main/data/output/norfolk_left_vs_right.png)
  - [Norfolk's top numbers](https://github.com/azdaly/Keno/blob/main/data/output/Norfolk_top_numbers.txt)
  - Norfolk's top numbers plot:  
@@ -54,9 +54,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
 ### Fremont  
 
- - Fremont's High vs. Low performance - fremont_HVL_WINNER is currently beating FREMONT_HVL_WINNER (significant):  
+ - Fremont's High vs. Low performance - Bottom is currently winning (Significant):  
  ![Fremont's High vs. Low performance](https://github.com/azdaly/Keno/blob/main/data/output/fremont_top_vs_bottom.png)
- - Fremont's Left vs. Right performance - fremont_LVR_WINNER is currently beating FREMONT_LVR_WINNER (significant):   
+ - Fremont's Left vs. Right performance - Right is currently winning (Significant):   
  ![Fremont's Left vs. Right performance](https://github.com/azdaly/Keno/blob/main/data/output/fremont_left_vs_right.png)
  - [Fremont's top numbers](https://github.com/azdaly/Keno/blob/main/data/output/Fremont_top_numbers.txt)
  - Fremont's top numbers plot:  
