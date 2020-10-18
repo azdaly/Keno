@@ -16,9 +16,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) -
-  - Left/Right ($1 for 10 games) -
-  - Pick 10/Hit 10 -
+  - Top/Bottom ($1 for 10 games) - lincoln_HVL_WINNINGS
+  - Left/Right ($1 for 10 games) - lincoln_LVR_WINNINGS
+  - Pick 10/Hit 10 - lincoln_TOPSPOT_WINNINGS
 
 ### Omaha  
 
@@ -32,9 +32,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) -
-  - Left/Right ($1 for 10 games) -
-  - Pick 10/Hit 10 -
+  - Top/Bottom ($1 for 10 games) - omaha_HVL_WINNINGS
+  - Left/Right ($1 for 10 games) - omaha_LVR_WINNINGS
+  - Pick 10/Hit 10 - omaha_TOPSPOT_WINNINGS
 
 ### Norfolk  
 
@@ -48,9 +48,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) -
-  - Left/Right ($1 for 10 games) -
-  - Pick 10/Hit 10 -
+  - Top/Bottom ($1 for 10 games) - norfolk_HVL_WINNINGS
+  - Left/Right ($1 for 10 games) - norfolk_LVR_WINNINGS
+  - Pick 10/Hit 10 - norfolk_TOPSPOT_WINNINGS
 
 ### Fremont  
 
@@ -64,9 +64,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) -
-  - Left/Right ($1 for 10 games) -
-  - Pick 10/Hit 10 -  
+  - Top/Bottom ($1 for 10 games) - fremont_HVL_WINNINGS
+  - Left/Right ($1 for 10 games) - fremont_LVR_WINNINGS
+  - Pick 10/Hit 10 - fremont_TOPSPOT_WINNINGS
 
 ### Did I help you win a little dough?  
 

@@ -34,6 +34,7 @@ MANIFEST
 *.spec
 
 ./readmetemplate.md
+./intermediate_readme.md
 
 # Installer logs
 pip-log.txt
