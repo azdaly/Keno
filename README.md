@@ -1,6 +1,8 @@
 # Keno  
 
-This is a repository dedicated to tracking the bets and numbers that win at rates higher than random in several keno markets.
+This is a repository dedicated to tracking the bets and numbers that win at rates higher than random in several keno markets.  
+
+A point of reference for the retrospectives - generally if you bet $10 on ten Top/Bottom, Left/Right games, you're going to walk away with $8. Take that into consideration when determining how successful the recommendations are.
 
 ## The Data  
 
