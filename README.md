@@ -8,7 +8,7 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  - Lincoln's High vs. Low performance - Top is currently winning (Significant):  
  ![Lincoln's High vs. Low performance](https://github.com/azdaly/Keno/blob/main/data/output/lincoln_top_vs_bottom.png)
- - Lincoln's Left vs. Right performance - Right is currently winning (Not significant):  
+ - Lincoln's Left vs. Right performance - Right is currently winning (Significant):  
  ![Lincoln's Left vs. Right performance](https://github.com/azdaly/Keno/blob/main/data/output/lincoln_left_vs_right.png)
  - [Lincoln's top numbers](https://github.com/azdaly/Keno/blob/main/data/output/Lincoln_top_numbers.txt)
  - Lincoln's top numbers plot:  
@@ -16,9 +16,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) - $10
-  - Left/Right ($1 for 10 games) - $10
-  - Pick 10/Hit 10 - $277
+  - Top/Bottom ($1 for 10 games) - $4
+  - Left/Right ($1 for 10 games) - $8
+  - Pick 10/Hit 10 - $447
 
 ### Omaha  
 
@@ -32,9 +32,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) - $6
-  - Left/Right ($1 for 10 games) - $16
-  - Pick 10/Hit 10 - $414
+  - Top/Bottom ($1 for 10 games) - $10
+  - Left/Right ($1 for 10 games) - $10
+  - Pick 10/Hit 10 - $478
 
 ### Norfolk  
 
@@ -48,9 +48,9 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) - $4
-  - Left/Right ($1 for 10 games) - $8
-  - Pick 10/Hit 10 - $545
+  - Top/Bottom ($1 for 10 games) - $8
+  - Left/Right ($1 for 10 games) - $10
+  - Pick 10/Hit 10 - $515
 
 ### Fremont  
 
@@ -65,8 +65,8 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
   - Top/Bottom ($1 for 10 games) - $8
-  - Left/Right ($1 for 10 games) - $8
-  - Pick 10/Hit 10 - $397
+  - Left/Right ($1 for 10 games) - $6
+  - Pick 10/Hit 10 - $654
 
 ### Did I help you win a little dough?  
 
