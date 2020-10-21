@@ -18,7 +18,7 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
   - Top/Bottom ($1 for 10 games) - $0
   - Left/Right ($1 for 10 games) - $10
-  - Pick 10/Hit 10 - $559
+  - Pick 10/Hit 10 - $578
 
 ### Omaha  
 
@@ -50,7 +50,7 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
   - Top/Bottom ($1 for 10 games) - $4
   - Left/Right ($1 for 10 games) - $8
-  - Pick 10/Hit 10 - $383
+  - Pick 10/Hit 10 - $393
 
 ### Fremont  
 
@@ -66,7 +66,7 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
   - Top/Bottom ($1 for 10 games) - $10
   - Left/Right ($1 for 10 games) - $12
-  - Pick 10/Hit 10 - $247
+  - Pick 10/Hit 10 - $328
 
 ### Did I help you win a little dough?  
 
