@@ -1,6 +1,8 @@
 # Keno  
 
-This is a repository dedicated to tracking the bets and numbers that win at rates higher than random in several keno markets.
+This is a repository dedicated to tracking the bets and numbers that win at rates higher than random in several keno markets.  
+
+**Note:** Even with this information, it is very clear that you are more likely to lose money than win money.
 
 ## The Data  
 
