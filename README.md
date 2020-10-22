@@ -2,8 +2,6 @@
 
 This is a repository dedicated to tracking the bets and numbers that win at rates higher than random in several keno markets.  
 
-**Note:** Even with this information, it is very clear that you are more likely to lose money than win money.
-
 ## The Data  
 
 ### Lincoln  
@@ -69,8 +67,3 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
   - Top/Bottom ($1 for 10 games) - $4
   - Left/Right ($1 for 10 games) - $12
   - Pick 10/Hit 10 - $0
-
-### Did I help you win a little dough?  
-
-Awesome! Please consider buying me a coffee (or a beer)! 😁  
-<a href="https://www.buymeacoffee.com/azdaly" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
