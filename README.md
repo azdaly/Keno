@@ -18,15 +18,15 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) - $0
-  - Left/Right ($1 for 10 games) - $10
-  - Pick 10/Hit 10 - $35
+  - Top/Bottom ($1 for 10 games) - $6
+  - Left/Right ($1 for 10 games) - $12
+  - Pick 10/Hit 10 - $0
 
 ### Omaha  
 
  - Omaha's High vs. Low performance - Bottom is currently winning (Significant):  
  ![Omaha's High vs. Low performance](https://github.com/azdaly/Keno/blob/main/data/output/omaha_top_vs_bottom.png)
- - Omaha's Left vs. Right performance - Left is currently winning (Not significant):  
+ - Omaha's Left vs. Right performance - Right is currently winning (Significant):  
  ![Omaha's Left vs. Right performance](https://github.com/azdaly/Keno/blob/main/data/output/omaha_left_vs_right.png)
  - [Omaha's top numbers](https://github.com/azdaly/Keno/blob/main/data/output/Omaha_top_numbers.txt)
  - Omaha's top numbers plot:  
@@ -34,15 +34,15 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) - $16
-  - Left/Right ($1 for 10 games) - $8
-  - Pick 10/Hit 10 - $0
+  - Top/Bottom ($1 for 10 games) - $6
+  - Left/Right ($1 for 10 games) - $10
+  - Pick 10/Hit 10 - $4
 
 ### Norfolk  
 
  - Norfolk's High vs. Low performance - Top is currently winning (Significant):  
  ![Norfolk's High vs. Low performance](https://github.com/azdaly/Keno/blob/main/data/output/norfolk_top_vs_bottom.png)
- - Norfolk's Left vs. Right performance - Left is currently winning (Significant):  
+ - Norfolk's Left vs. Right performance - Right is currently winning (Significant):  
  ![Norfolk's Left vs. Right performance](https://github.com/azdaly/Keno/blob/main/data/output/norfolk_left_vs_right.png)
  - [Norfolk's top numbers](https://github.com/azdaly/Keno/blob/main/data/output/Norfolk_top_numbers.txt)
  - Norfolk's top numbers plot:  
@@ -50,7 +50,7 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) - $4
+  - Top/Bottom ($1 for 10 games) - $6
   - Left/Right ($1 for 10 games) - $8
   - Pick 10/Hit 10 - $0
 
@@ -66,7 +66,7 @@ This is a repository dedicated to tracking the bets and numbers that win at rate
 
  **Retrospective:**  
  If you had put $10 on the last ten games for any of the following keno types, you would have walked away with the following amounts:
-  - Top/Bottom ($1 for 10 games) - $10
+  - Top/Bottom ($1 for 10 games) - $4
   - Left/Right ($1 for 10 games) - $12
   - Pick 10/Hit 10 - $0
 
